@@ -2,8 +2,8 @@
 
 Teaching material for a lecture (including practical exercises) on GUI testing.
 
-[Slides]  
-[Exercises]  
+[Slides](https://github.com/ssegura/GUITesting/raw/master/slides.pdf)  
+[Exercises](https://github.com/ssegura/GUITesting/raw/master/Exercises.pdf)    
 
 ## Required software 
 [Katalon recorder](https://www.google.com)  
