@@ -63,6 +63,9 @@ public class UniLu {
 	public void testBachelorCampus() throws Exception {
 		driver.get("https://wwwen.uni.lu/");
 
+		// Accept cookie consent
+		driver.findElement(By.xpath("/html/body/div[2]/div/a[2]")).click();
+		
 		// Mouseover on Studies dropdown menu
 		Actions action = new Actions(driver);
 		WebElement btn = driver.findElement(By.xpath("//*[@id=\"nav\"]/li[6]"));
