@@ -15,9 +15,10 @@ Teaching material for a lecture (including practical exercises) on GUI testing.
 
 This material was used in the following lessons and workshops:
 
+* Software Testing in Industry - Master degree at the University of Cádiz, Spain. January 2022.
+* Software Testing in Industry - Master degree at the University of Cádiz, Spain. January 2021.
 * Software Testing - Professional bachelor in informatics at the University of Luxembourg. March 2020.
 * Software engineering 2 - Academic bachelor in informatics at the University of Luxembourg. March 2020.
-* Software Testing in Industry - Master degree at the University of Cádiz, Spain. January 2021.
 
 
 ## Acknowledgments 
